@@ -11,6 +11,9 @@
 
 - ⚡ Fun fact **Passionate about computers and programming since childhood, I took a detour into the fascinating world of finance (accounting, tax, and investment analysis). Now, I'm back to my programming roots, using code to unlock new possibilities in the financial landscape!**
 
+
+<img src="https://github.com/Hybridhash/Hybridhash/blob/main/Carrier%20Journey.gif" alt="Professional Career Journey" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/m_ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="m_ahmad" height="30" width="40" /></a>
