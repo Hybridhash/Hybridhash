@@ -1,25 +1,108 @@
 <h1 align="center">Hi 👋, I'm Ahmad</h1>
-<h3 align="center">Chartered Accountant (ACCA) & MSc Professional Accountancy with extensive experience in Big 4 audit firms and MNCs. Recently completed a BSc Computer Science (Data Science) degree to leverage finance knowledge with cutting-edge technologies like Artificial Intelligence (AI) and Machine Learning (ML).</h3>
 
-- 🔭 I’m currently working on **custom Dataset creation for task based Fine-Tuning and RAG implmentation.**
-
-- 🌱 I’m currently learning **retrieval-augmented generation (RAG) improvement techniques.**
-
-- 👯 I’m looking to collaborate on [FastAPI HTMX BoilerPlate Implementation.](https://github.com/Hybridhash/FastAPI-HTMX)
-
-- 💬 Ask me about **react,htmx,fastapi,pytorch,tensorflow,alpinejs**
-
-- ⚡ Fun fact **Passionate about computers and programming since childhood, I took a detour into the fascinating world of finance (accounting, tax, and investment analysis). Now, I'm back to my programming roots, using code to unlock new possibilities in the financial landscape!**
-
-
-<img src="https://github.com/Hybridhash/Hybridhash/blob/main/Carrier%20Journey.gif" alt="Professional Career Journey" />
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/m_ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="m_ahmad" height="30" width="40" /></a>
+<p align="center">
+  <b>Chartered Accountant turned AI engineer — building agents, RAG systems and Python web apps where finance meets AI</b><br/>
+  Big 4 audit & taxation · MNC finance · ACCA · CPA Pakistan · MSc Professional Accountancy · BSc Computer Science (Data Science)
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-ahmad-7116a030"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://discord.com/users/558184173266010121"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hybridhash&show_icons=true&locale=en&layout=compact" alt="hybridhash" /></p>
+---
+
+### 🧭 About me
+
+I've loved programming since childhood, took a detour into finance — Big 4 audit, taxation and investment analysis — and I'm now back to code, building tools where **finance meets AI**.
+
+- 🤖 **Building:** AI agents with **LangGraph** and **Pydantic AI**, web & mobile apps, and tooling for AI coding agents ([RelayDeck](https://github.com/Hybridhash/relaydeck))
+- 🧪 **Exploring:** RAG pipelines, retrieval-quality improvements and custom datasets for task-based fine-tuning
+- 📄 **Applying it to finance:** document & invoice extraction, financial dashboards and automation
+- 💬 **Ask me about:** agents, RAG, FastAPI, Litestar, HTMX, React — or anything accounting & audit
+
+---
+
+### 🚀 Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**RelayDeck**](https://github.com/Hybridhash/relaydeck) | Remote control for the AI coding agents and shells running on your Mac — watch, answer and start them from your phone, tablet or browser. Nothing leaves your Mac. | Python, Flet, FastAPI, WebSockets |
+| [**FastAPI-HTMX**](https://github.com/Hybridhash/FastAPI-HTMX) | Boilerplate for server-rendered apps with FastAPI + HTMX | FastAPI, HTMX, Alpine.js, SQLAlchemy |
+| [**Litestar-HTMX**](https://github.com/Hybridhash/litestar-fullstack) | My fork of Litestar Fullstack, adapted for HTMX | Litestar, HTMX, Advanced Alchemy |
+
+---
+
+### 🛠️ Tech stack
+
+**🤖 AI Agents & LLMs**
+<p>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Pydantic_AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic AI"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge&logoColor=white" alt="ChromaDB"/>
+  <img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector"/>
+</p>
+
+**🧠 ML & Data**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" alt="ML and data tools"/>
+</p>
+
+**⚙️ Backend & Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,postgres,sqlite,redis,docker,aws" alt="Backend tools"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Litestar-202235?style=for-the-badge&logoColor=EDB641" alt="Litestar"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
+</p>
+
+**🎨 Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,html,css" alt="Frontend tools"/>
+  <br/>
+  <img src="https://img.shields.io/badge/HTMX-3366CC?style=for-the-badge&logo=htmx&logoColor=white" alt="HTMX"/>
+  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black" alt="Alpine.js"/>
+  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI"/>
+</p>
+
+**📱 Mobile & Desktop**
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,react" alt="Flutter and React Native"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Flet-0175C2?style=for-the-badge&logo=flutter&logoColor=white" alt="Flet"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+</p>
+
+<sub>Also: pandas, seaborn, Selenium, Playwright, pytest, Chart.js, Git & GitHub Actions</sub>
+
+---
+
+### 🎓 Education & qualifications
+
+<p align="center">
+  <img src="./education-journey.svg" alt="$HYBR education chart, from audit rooms to AI agents: Accounting Technician (ACCA CAT), Chartered Accountant (ACCA), CPA Pakistan, MSc Professional Accountancy and BSc Computer Science with Data Science (University of London), now AI agents plus web and mobile apps" width="100%"/>
+</p>
+
+---
+
+### 🎾 Off-market hours
+
+<p align="center">
+  <img src="./off-market-hours.svg" alt="Hobbies as a portfolio: part-time stock investing (long-term hold), padel (weekend trade), cricket (lifetime hold), gaming (high frequency)" width="100%"/>
+</p>
+
+---
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Hybridhash?affiliations=OWNER&style=for-the-badge&label=Stars%20earned&logo=github&color=f5b301" alt="Stars earned"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FHybridhash&query=%24.public_repos&label=Public%20repos&style=for-the-badge&logo=github&color=22a6c7" alt="Public repos"/>
+</p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=hybridhash&layout=compact&hide_border=true" alt="Top languages"/>
+</p>
